@@ -11,6 +11,11 @@ public class SellIntroduction {
 		WebDriver driver = new ChromeDriver();
 
 		driver.get("https://www.google.com/");
+		System.out.println("PostJIRA1");
+		System.out.println("PostJIRA2");
+		System.out.println("PostJIRA3");
+		System.out.println("PostJIRA4");
+		
 
 	}
 

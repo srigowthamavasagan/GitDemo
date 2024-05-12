@@ -5,6 +5,7 @@ public class TestClass {
 		// TODO Auto-generated method stub
 System.out.println("testClass");
 System.out.println("devlp branch new");
+System.out.println("devlp branch new2");
 	}
 
 }
